@@ -1,5 +1,6 @@
 # emdataforce
-EM DATA FORCE: WE MAKE YOUR DATA ACTIONABLE. Specialized Excel &amp; Power Query solutions for retail automation and small business growth.
+EM DATA FORCE: WE MAKE YOUR DATA ACTIONABLE. 
+Specialized Excel and Power Query solutions for retail automation and small business growth.
 <section id="hero">
     <h1>EM Data Force</h1>
     <p class="tagline">We make your data <strong>actionable</strong>.</p>
