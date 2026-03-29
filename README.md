@@ -5,7 +5,11 @@ Specialized Excel and Power Query solutions for retail automation and small busi
     <h1>EM Data Force</h1>
     <p class="tagline">We make your data <strong>actionable</strong>.</p>
     <p class="sub-hero">Automating retail reporting .</p>
-     <p class="sub-hero">and inventory workflows so you can focus on your customers.</p>
+     <p class="sub-hero">managing inventory workflows</p>
+     <p class="sub-hero">shift schedule for your employees when you need them most</p>
+     <p class="sub-hero">SO YOU CAN DO WHAT YOU NEED TO......</p>
+     <p class="sub-hero">              ***FOCUS ON CLIENT***</p>
+    
     <a href="#portfolio" class="btn">View My Work</a>
     <a href="#contact" class="btn-alt">email for info</a>
 </section>
