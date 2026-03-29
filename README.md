@@ -3,6 +3,7 @@ EM DATA FORCE: WE MAKE YOUR DATA ACTIONABLE.
 Specialized Excel and Power Query solutions for retail automation and small business growth.
 <section id="hero">
     <h1>EM Data Force</h1>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <p class="tagline">We make your data <strong>ACTIONABLE</strong>.</p>
     <p class="sub-hero">***AUTOMATIC RETAIL REPORTING***</p>
      <p class="sub-hero">***MANAGING INVENTORY***</p>
