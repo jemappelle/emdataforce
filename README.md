@@ -5,5 +5,5 @@ EM DATA FORCE: WE MAKE YOUR DATA ACTIONABLE. Specialized Excel &amp; Power Query
     <p class="tagline">We make your data <strong>actionable</strong>.</p>
     <p class="sub-hero">Automating retail reporting and inventory workflows so you can focus on your customers.</p>
     <a href="#portfolio" class="btn">View My Work</a>
-    <a href="#contact" class="btn-alt">Book a Paid Strategy Call</a>
+    <a href="#contact" class="btn-alt">email for info</a>
 </section>
