@@ -9,7 +9,7 @@ Specialized Excel and Power Query solutions for retail automation and small busi
      <p class="sub-hero">***Finding what is making profit:) ***</p>
      <p class="sub-hero">***And what's not :( ***</p>
      <p class="sub-hero">So you can do ......</p>
-     <p class="sub-hero">What your need to &darr;&darr;&darr;</p>
+     <p class="sub-hero">What you need to &darr;&darr;&darr;</p>
      <p class="sub-hero">***&rarr; &rarr; &rarr;FOCUS ON CLIENT &larr;&larr;&larr;***</p>
     
     <a href="#portfolio" class="btn">View My Work</a>
