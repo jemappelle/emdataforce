@@ -64,7 +64,37 @@
             color: #718096;
             font-weight: bold;
         }
-
+ .case-study {
+            max-width: 1000px;
+            margin: 40px auto;
+            background: #ffffff;
+            border-left: 5px solid #2b6cb0;
+            padding: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        .case-study h3 {
+            color: #1a365d;
+            font-size: 1.5rem;
+            margin-top: 0;
+        }
+        .fact-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .fact-box {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            border: 1px solid #e2e8f0;
+        }
+        .fact-box h4 {
+            margin-top: 0;
+            color: #2b6cb0;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 10px;
+        }
     </style>
 </head>
 <body>
@@ -92,6 +122,27 @@
             </div>
 
         </div>
+     <!-- Deep Dive Case Study -->
+        <div class="case-study animate__animated animate__fadeIn">
+            <h3>Fact-Finding Analysis: Unstructured Data Transformation</h3>
+            <p><strong>Goal:</strong> Eliminate manual data entry by extracting key metrics from raw text files.</p>
+            
+            <div class="fact-grid">
+                <div class="fact-box">
+                    <h4>The Challenge</h4>
+                    <p>Critical billing data was locked inside raw, unstructured WordPad invoices, making bulk analysis impossible without hours of manual transcription.</p>
+                </div>
+                <div class="fact-box">
+                    <h4>The Action</h4>
+                    <p>Developed an automated Power Query workflow in Excel to ingest text files, parse out formatting, and cleanly extract line items, dates, and totals.</p>
+                </div>
+                <div class="fact-box">
+                    <h4>The Impact</h4>
+                    <p>Delivered a fully structured, analyzable dataset. The solution entirely removed the need for manual data entry and improved reporting accuracy.</p>
+                </div>
+            </div>
+        </div>
+
     </section>
 
 </body>
