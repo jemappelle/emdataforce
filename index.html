@@ -31,6 +31,40 @@
             max-width: 600px;
             margin: 0 auto;
         }
+        .portfolio {
+            padding: 60px 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .portfolio h2 {
+            text-align: center;
+            font-size: 2rem;
+            color: #1a365d;
+            margin-bottom: 40px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+        .card {
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            border-top: 4px solid #2b6cb0;
+        }
+        .card h3 {
+            margin-top: 0;
+            color: #2b6cb0;
+        }
+        .tags {
+            margin-top: 15px;
+            font-size: 0.85rem;
+            color: #718096;
+            font-weight: bold;
+        }
+
     </style>
 </head>
 <body>
@@ -38,6 +72,26 @@
     <section class="hero">
         <h1 class="animate__animated animate__fadeInDown">EM Data Force</h1>
         <p class="animate__animated animate__fadeInUp">Transforming retail operations and small business efficiency through automated reporting and clear data insights.</p>
+    </section>
+ <section class="portfolio">
+        <h2>Recent Projects</h2>
+        <div class="grid">
+            
+            <!-- Project 1 -->
+            <div class="card animate__animated animate__fadeInUp">
+                <h3>Unstructured Data Transformation</h3>
+                <p>Engineered an automated workflow to extract and clean unstructured text from raw WordPad invoices, converting them into fully structured, analyzable Excel datasets.</p>
+                <div class="tags">Tools: Excel | Power Query | Data Cleaning</div>
+            </div>
+
+            <!-- Project 2 -->
+            <div class="card animate__animated animate__fadeInUp" style="animation-delay: 0.2s;">
+                <h3>Automated Retail Reporting</h3>
+                <p>Designed dynamic retail dashboards to monitor inventory thresholds and sales performance, replacing manual tracking with scalable data models.</p>
+                <div class="tags">Tools: Power BI | DAX | Python (Pandas)</div>
+            </div>
+
+        </div>
     </section>
 
 </body>
